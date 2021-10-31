@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @KevDanDev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Kevin Daniel Gutierrez Eliosa
+- 👀 Ingeniero en Informática
+- 🌱 Actualmente me dedico al desarrollo web
+- 💞️ Me gusta aprender siempre cosas nuevas
+- 📫 PROGRAMACIÓN
 
 <!---
 KevDanDev/KevDanDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Desarrollo web C# VB.net
+Desarrollo de software Desktop y web C# VB.net
